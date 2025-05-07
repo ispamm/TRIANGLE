@@ -144,21 +144,10 @@ The processed  pretrained_weights path should be as follows:
 
 ## MODEL ZOO
 
-Model pretrained on VAST subset is available [here](https://drive.google.com/drive/folders/1trifmLTPKqMwljBwSj3urty00_hc1Z2k?usp=sharing)! 
+Model pretrained on VAST subset will be available after publication to preserve anonimity.
 
 
 
-Download the entire folder that consists of a subfolder "log" and another one "ckpt. Place the folder whatever you prefer and record the location for future commands.
-
-An example of paths after the download could be as follow:
-
-```
-    ├── pretrained_models
-    │   ├── triangle_pretraining
-    │   │   ├── log
-    │   │   ├── ckpt    
-
-```
 
 
 
@@ -166,7 +155,8 @@ An example of paths after the download could be as follow:
 
 VAST-27M DATASET could be downloaded following the official [repo](https://github.com/TXH-mercury/VAST)
 
-We used a subset of VAST-27M for the pretraining phase of TRIANGLE. This is the annotation file used [here](https://drive.google.com/file/d/1EESXH_sAx-mFMqbmIhr54Bnm4wkRsXLg/view?usp=drive_link)
+We used a subset of VAST-27M for the pretraining phase of TRIANGLE. Will be available after publication to preserve anonimity.
+
 
 ## Finetune  Model on the 150k subset of VAST27M
 Download annotations150k.json file subset.
