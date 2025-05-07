@@ -15,7 +15,7 @@ Cosine Similarity </a></h2>
 This function computes the area of the k-dimensional parallelotope formed by three vectors—one from each modality—using their triangle matrix determinant:
 
 ```python
-def area_computation(language, video, audio):
+def basic_area_computation(language, video, audio):
     #Assume input vectors each of shape [1,latent_dim]
     #Assume they are all normalized to have norm=1
 
