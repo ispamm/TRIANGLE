@@ -1,6 +1,8 @@
 <h2 align="center"> A TRIANGLE Enables Multimodal Alignment Beyond
-Cosine Similarity </a></h2>
+Cosine Similarity [NeurIPS 2025]</a></h2>
 
+<h3 align="center"> Giordano Cicchetti, Eleonora Grassucci, Danilo Comminiello
+</a></h3>
 
 
 <h5 align="center"> 
