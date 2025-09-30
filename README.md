@@ -147,9 +147,7 @@ The processed  pretrained_weights path should be as follows:
 
 ## MODEL ZOO
 
-Model pretrained on VAST subset will be available after publication to preserve anonimity.
-
-
+Here you can download the pretrained checkpoint on the 150k subset of VAST-27M: [link](https://drive.google.com/file/d/1T-wuY-CzUp_PF8UuhKDqXEAL86obUpzj/view?usp=sharing)
 
 
 
