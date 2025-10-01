@@ -202,7 +202,16 @@ if you want to test model, just add following two rows to the cmd:
 --checkpoint /PATH/TO/SAVED_CHECKPOINT.pt
 ```
 
+## Cite
 
+```
+@article{cicchetti2025neurips,
+    title={A TRIANGLE Enables Multimodal Alignment Beyond Cosine Similarity},
+    author={Cicchetti, Giordano and Grassucci, Eleonora and Comminiello, Danilo},
+    year={2025},
+    journal={Advances in Neural Information Processing Systems (NeurIPS)},
+}
+```
 
 ## Third-Party Licenses
 
