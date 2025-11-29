@@ -26,8 +26,8 @@ srun python3 -m torch.distributed.launch \
 --nproc_per_node 4 \
 --master_port 9834 \
 ./run.py \
---config ./config/triangle/pretrain_cfg/pretrain_activity.json \
---output_dir ./downstream/pretrain_activity \
+--config ./config/triangle/finetune_cfg/retrieval-msrvtt.json \
+--output_dir ./downstream/pretrain_msrvtt \
 --checkpointing true \
 --first_eval true \
 --save_best true \
