@@ -9,7 +9,7 @@ Cosine Similarity [NeurIPS 2025]</a></h2>
 <h5 align="center">
      
 
-### ⚠️ This repository is under construction. If you experience any bugs, report them in the issues!
+⚠️ If you experience any bugs, report them in the issues!
 
 ### ✨ Takeaway functions 
 
@@ -174,9 +174,6 @@ Change configuration internally at scripts/triangle/finetune_ret.sh and then run
 sh scripts/triangle/finetune_ret.sh
 ```
 
-
-
-
 ## Test your finetuned Model
 For example, if the cmd for finetuning retrieval model is as follows:
 
@@ -201,6 +198,10 @@ if you want to test model, just add following two rows to the cmd:
 --mode 'testing' \
 --checkpoint /PATH/TO/SAVED_CHECKPOINT.pt
 ```
+
+## Toy experiment on 3-modal MNIST
+
+For the toy experiment on 3-modal MNIST, please refer to the [EasyCL repository](https://github.com/Giordano-Cicchetti/EasyCL).
 
 ## Cite
 
